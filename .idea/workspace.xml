@@ -4,23 +4,13 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="43aba33c-5d29-4386-a6c7-4fd8032b64f4" name="Changes" comment="added hw2">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LearnJava.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/log.config" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/hw/hw2/Hw2Task1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/hw/hw2/Hw2Task2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/hw/hw2/Hw2Task3.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/hw/hw2/lib.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/hw/hw2/text2.jsn" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/tasks/Log.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/tasks/tasksSem2.java" afterDir="false" />
+    <list default="true" id="43aba33c-5d29-4386-a6c7-4fd8032b64f4" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/src/hw/hw3/Task1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/hw/hw3/Task2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/hw/hw3/Task3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/hw/hw3/lib.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -49,14 +39,14 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "SHARE_PROJECT_CONFIGURATION_FILES": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;
   }
-}]]></component>
-  <component name="RunManager" selected="Application.Hw2Task2">
+}</component>
+  <component name="RunManager" selected="Application.Main">
     <configuration name="Hw2Task2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="hw.hw2.Hw2Task2" />
       <module name="LearnJava" />
@@ -77,10 +67,52 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="Task1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="hw.hw3.Task1" />
+      <module name="LearnJava" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="hw.hw3.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Task2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="hw.hw3.Task2" />
+      <module name="LearnJava" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="hw.hw3.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Task3" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="hw.hw3.Task3" />
+      <module name="LearnJava" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="hw.hw3.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.Hw2Task2" />
         <item itemvalue="Application.Main" />
+        <item itemvalue="Application.Task3" />
+        <item itemvalue="Application.Task2" />
+        <item itemvalue="Application.Task1" />
+        <item itemvalue="Application.Hw2Task2" />
       </list>
     </recent_temporary>
   </component>
@@ -93,6 +125,21 @@
       <option name="presentableId" value="Default" />
       <updated>1680251185398</updated>
     </task>
+    <task id="LOCAL-00001" summary="added hw2">
+      <created>1680287011940</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1680287011945</updated>
+    </task>
+    <task id="LOCAL-00002" summary="added hw2">
+      <created>1680287109089</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1680287109089</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">

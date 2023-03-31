@@ -16,7 +16,7 @@ import java.io.IOException;
 // Студент Петрова получил 4 по предмету Информатика.
 // Студент Краснов получил 5 по предмету Физика.
 public class Hw2Task2 {
-    public static void main(String[] args) throws Exception {
+    public static void ofParsing() throws Exception {
         String [] arrayData =  lib.ReadLineFromFile("text2.txt");
         for(int i = 0; i < arrayData.length; i++) {
             System.out.println(PrintLine(arrayData[i]));
