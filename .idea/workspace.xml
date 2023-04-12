@@ -5,15 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="43aba33c-5d29-4386-a6c7-4fd8032b64f4" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/hw/hw4/Task1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/hw/hw4/Task2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/hw/hw5/Task1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/hw/hw5/Task2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/tasks/ArraySort.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/tasks/MapSaveBase.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/hw/hw6/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/hw/hw6/MarketLaptops.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/tasks/tasksSem2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/tasks/tasksSem2.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -54,13 +48,13 @@
     &quot;settings.editor.selected.configurable&quot;: &quot;preferences.pluginManager&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.hw.hw5.Task2">
-    <configuration name="ArraySort" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="tasks.ArraySort" />
+  <component name="RunManager" selected="Application.Main">
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="hw.hw6.Main" />
       <module name="LearnJava" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="tasks.*" />
+          <option name="PATTERN" value="hw.hw6.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -122,11 +116,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Main" />
         <item itemvalue="Application.hw.hw5.Task2" />
         <item itemvalue="Application.hw.hw5.Task1" />
         <item itemvalue="Application.Task2" />
         <item itemvalue="Application.Task1" />
-        <item itemvalue="Application.ArraySort" />
       </list>
     </recent_temporary>
   </component>
@@ -160,12 +154,20 @@
       <option name="project" value="LOCAL" />
       <updated>1680291188265</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="added hw4 &amp; hw 5">
+      <created>1681046588475</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1681046588475</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="added hw2" />
     <MESSAGE value="added hw3" />
-    <option name="LAST_COMMIT_MESSAGE" value="added hw3" />
+    <MESSAGE value="added hw4 &amp; hw 5" />
+    <option name="LAST_COMMIT_MESSAGE" value="added hw4 &amp; hw 5" />
   </component>
 </project>
