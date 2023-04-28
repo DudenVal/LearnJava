@@ -5,21 +5,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="43aba33c-5d29-4386-a6c7-4fd8032b64f4" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/hw/HwOOP2/Cat.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/hw/HwOOP2/MainClass.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/hw/HwOOP2/Owner.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/hw/HwOOP2/Plate.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/tasks/OOP/Lections/Foo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/tasks/OOP/Lections/Program.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/tasks/OOP/Seminar2/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/tasks/OOP/Seminar2/task1/Cat.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/tasks/OOP/Seminar2/task1/Championship.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/tasks/OOP/Seminar2/task1/Human.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/tasks/OOP/Seminar2/task1/Obstacle.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/tasks/OOP/Seminar2/task1/Robot.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/tasks/OOP/Seminar2/task1/Runner.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/tasks/OOP/Seminar2/task1/Track.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/tasks/OOP/Seminar2/task1/Wall.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/tasks/OOP/Seminar3/ArrayUtils.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/tasks/OOP/Seminar3/Sample01.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/tasks/OOP/Seminar3/Sample02.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/tasks/OOP/Seminar3/test.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -62,7 +51,7 @@
     &quot;settings.editor.selected.configurable&quot;: &quot;preferences.pluginManager&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.MainClass">
+  <component name="RunManager" selected="Application.Sample02">
     <configuration name="Championship" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="tasks.OOP.Seminar2.task1.Championship" />
       <module name="LearnJava" />
@@ -89,12 +78,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Program" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="tasks.OOP.Lections.Program" />
+    <configuration name="Sample01" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="tasks.OOP.Seminar3.Sample01" />
       <module name="LearnJava" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="tasks.OOP.Lections.*" />
+          <option name="PATTERN" value="tasks.OOP.Seminar3.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -102,12 +91,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="tasks.OOP.Seminar2.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="tasks.OOP.Seminar2.Main" />
+    <configuration name="Sample02" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="tasks.OOP.Seminar3.Sample02" />
       <module name="LearnJava" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="tasks.OOP.Seminar2.*" />
+          <option name="PATTERN" value="tasks.OOP.Seminar3.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -115,12 +104,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="tasks.OOP.Seminars.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="tasks.OOP.Seminars.Main" />
+    <configuration name="Sample02" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="tasks.OOP.Seminar3.Sample02" />
       <module name="LearnJava" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="tasks.OOP.Seminars.*" />
+          <option name="PATTERN" value="tasks.OOP.Seminar3.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -130,11 +119,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Sample02" />
+        <item itemvalue="Application.Sample02" />
+        <item itemvalue="Application.Sample01" />
         <item itemvalue="Application.MainClass" />
         <item itemvalue="Application.Championship" />
-        <item itemvalue="Application.tasks.OOP.Seminar2.Main" />
-        <item itemvalue="Application.Program" />
-        <item itemvalue="Application.tasks.OOP.Seminars.Main" />
       </list>
     </recent_temporary>
   </component>
@@ -189,7 +178,14 @@
       <option name="project" value="LOCAL" />
       <updated>1681671748337</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="Сделал 2 дз по ооп!">
+      <created>1682360604880</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1682360604880</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -198,6 +194,7 @@
     <MESSAGE value="added hw4 &amp; hw 5" />
     <MESSAGE value="Add hw 6" />
     <MESSAGE value="Дополнил особенный вендинговый автомат сахаром:D" />
-    <option name="LAST_COMMIT_MESSAGE" value="Дополнил особенный вендинговый автомат сахаром:D" />
+    <MESSAGE value="Сделал 2 дз по ооп!" />
+    <option name="LAST_COMMIT_MESSAGE" value="Сделал 2 дз по ооп!" />
   </component>
 </project>
