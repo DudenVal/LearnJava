@@ -5,10 +5,43 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="43aba33c-5d29-4386-a6c7-4fd8032b64f4" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/tasks/OOP/Seminar3/ArrayUtils.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/tasks/OOP/Seminar3/Sample01.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/tasks/OOP/Seminar3/Sample02.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/tasks/OOP/Seminar3/test.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/tasks/OOP/seminar6/dip/Print.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/tasks/OOP/seminar6/dip/PrintReport.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/tasks/OOP/seminar6/dip/PrintReport2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/tasks/OOP/seminar6/dip/PrintReport3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/tasks/OOP/seminar6/dip/Program.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/tasks/OOP/seminar6/dip/Report.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/tasks/OOP/seminar6/dip/ReportItem.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/tasks/OOP/seminar6/isp/BasePayamentSrvice.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/tasks/OOP/seminar6/isp/CustomPaymentService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/tasks/OOP/seminar6/isp/InternetPaymentService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/tasks/OOP/seminar6/isp/PayableCreditCard.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/tasks/OOP/seminar6/isp/PayablePhoneNumber.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/tasks/OOP/seminar6/isp/PayableWebMoney.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/tasks/OOP/seminar6/isp/Program.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/tasks/OOP/seminar6/lsp/Bird.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/tasks/OOP/seminar6/lsp/Duck.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/tasks/OOP/seminar6/lsp/Penguin.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/tasks/OOP/seminar6/lsp/Program.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/tasks/OOP/seminar6/ocp1/Circle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/tasks/OOP/seminar6/ocp1/Shape.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/tasks/OOP/seminar6/ocp1/ShapeType.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/tasks/OOP/seminar6/ocp1/ShapeV2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/tasks/OOP/seminar6/ocp1/SimpleDrawer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/tasks/OOP/seminar6/ocp1/SimpleDrawerV2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/tasks/OOP/seminar6/ocp2/Circle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/tasks/OOP/seminar6/ocp2/Program.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/tasks/OOP/seminar6/ocp2/RightTriangle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/tasks/OOP/seminar6/ocp2/Shape.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/tasks/OOP/seminar6/ocp2/Square.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/tasks/OOP/seminar6/srp1/Point.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/tasks/OOP/seminar6/srp1/Program.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/tasks/OOP/seminar6/srp1/Square.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/tasks/OOP/seminar6/srp1/SquareDrawer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/tasks/OOP/seminar6/srp2/JsonSaver.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/tasks/OOP/seminar6/srp2/Order.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/tasks/OOP/seminar6/srp2/OrderFromConsole.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/tasks/OOP/seminar6/srp2/Program.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -34,10 +67,12 @@
     <option name="stateVersion" value="1" />
   </component>
   <component name="ProblemsViewState">
-    <option name="selectedTabId" value="CurrentFile" />
+    <option name="selectedTabId" value="ProjectErrors" />
   </component>
   <component name="ProjectId" id="2NluqlLwOsvkWkszN33batFUKAt" />
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
@@ -51,46 +86,12 @@
     &quot;settings.editor.selected.configurable&quot;: &quot;preferences.pluginManager&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.Sample02">
-    <configuration name="Championship" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="tasks.OOP.Seminar2.task1.Championship" />
-      <module name="LearnJava" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="tasks.OOP.Seminar2.task1.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="MainClass" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="hw.HwOOP2.MainClass" />
-      <module name="LearnJava" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="hw.HwOOP2.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Sample01" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="tasks.OOP.Seminar3.Sample01" />
-      <module name="LearnJava" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="tasks.OOP.Seminar3.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RecentsManager">
+    <key name="CreateClassDialog.RecentsKey">
+      <recent name="tasks.OOP.seminar6.srp1" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.tasks.OOP.seminar6.srp2.Program">
     <configuration name="Sample02" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="tasks.OOP.Seminar3.Sample02" />
       <module name="LearnJava" />
@@ -104,12 +105,64 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Sample02" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="tasks.OOP.Seminar3.Sample02" />
+    <configuration name="tasks.OOP.seminar6.dip.Program" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="tasks.OOP.seminar6.dip.Program" />
       <module name="LearnJava" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="tasks.OOP.Seminar3.*" />
+          <option name="PATTERN" value="tasks.OOP.seminar6.dip.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="tasks.OOP.seminar6.isp.Program" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="tasks.OOP.seminar6.isp.Program" />
+      <module name="LearnJava" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="tasks.OOP.seminar6.isp.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="tasks.OOP.seminar6.lsp.Program" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="tasks.OOP.seminar6.lsp.Program" />
+      <module name="LearnJava" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="tasks.OOP.seminar6.lsp.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="tasks.OOP.seminar6.ocp2.Program" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="tasks.OOP.seminar6.ocp2.Program" />
+      <module name="LearnJava" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="tasks.OOP.seminar6.ocp2.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="tasks.OOP.seminar6.srp2.Program" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="tasks.OOP.seminar6.srp2.Program" />
+      <module name="LearnJava" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="tasks.OOP.seminar6.srp2.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -119,11 +172,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.Sample02" />
-        <item itemvalue="Application.Sample02" />
-        <item itemvalue="Application.Sample01" />
-        <item itemvalue="Application.MainClass" />
-        <item itemvalue="Application.Championship" />
+        <item itemvalue="Application.tasks.OOP.seminar6.srp2.Program" />
+        <item itemvalue="Application.tasks.OOP.seminar6.dip.Program" />
+        <item itemvalue="Application.tasks.OOP.seminar6.isp.Program" />
+        <item itemvalue="Application.tasks.OOP.seminar6.lsp.Program" />
+        <item itemvalue="Application.tasks.OOP.seminar6.ocp2.Program" />
       </list>
     </recent_temporary>
   </component>
@@ -185,7 +238,14 @@
       <option name="project" value="LOCAL" />
       <updated>1682360604880</updated>
     </task>
-    <option name="localTasksCounter" value="8" />
+    <task id="LOCAL-00008" summary="Сделал 3 дз по ооп!">
+      <created>1682703403442</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1682703403442</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -195,6 +255,22 @@
     <MESSAGE value="Add hw 6" />
     <MESSAGE value="Дополнил особенный вендинговый автомат сахаром:D" />
     <MESSAGE value="Сделал 2 дз по ооп!" />
-    <option name="LAST_COMMIT_MESSAGE" value="Сделал 2 дз по ооп!" />
+    <MESSAGE value="Сделал 3 дз по ооп!" />
+    <option name="LAST_COMMIT_MESSAGE" value="Сделал 3 дз по ооп!" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$USER_HOME$/AppData/Local/Temp/Rar$DIa1880.33124/Square.java</url>
+          <line>26</line>
+          <properties class="ru.geekbrains.lesson6.srp1.Square">
+            <option name="EMULATED" value="true" />
+            <option name="WATCH_EXIT" value="false" />
+          </properties>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
   </component>
 </project>
